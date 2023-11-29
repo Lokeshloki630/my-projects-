@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.big-cointainer1234 {
+    height: 100vh;
+    width: 440px;
+}
+
+.imagexx123 {
+    height: 250px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.headding12345 {
+    text-align: center;
+    color: #183b56;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.para1234 {
+    text-align: center;
+    color: #616e7c;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.bottom-contaainer12345 {
+    height: 50vh;
+}
+
+.imagexx1234 {
+    height: 15vh;
+    width: 150px;
+    margin: 10px;
+}
+
+
+.container123 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+     width:440px;
+}
+
+.small-container {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 30px;
+    background-color: #ffffff;
+    margin: 0px;
+    height: 60vh;
+}
+
+.p-bold {
+    font-weight: bold;
+    font-family: "roboto";
+    color: #7b8794;
+}
+
+.h1 {
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 20px;
+    color: #323f4b;
+
+}
+
+.p1 {
+    font-family: "roboto";
+    color: #7b8794;
+}
+
+.button {
+    padding: 5px;
+    color: white;
+    background-color: #323f4b;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.small-container {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: cover;
+    margin: 0px;
+    margin-top: 400px;
+}
+
+.h1 {
+    color: #5752ab;
+    font-family: "Bree Serif";
+}
+
+.p {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.button1 {
+    font-family: "Roboto";
+    border-radius: 8px;
+    background-color: #ffffff;
+    border-width: 1px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.button2 {
+    font-family: "Roboto";
+    background-color: #5752ab;
+    border-radius: 8px;
+    border-width: 0px;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.button1234 {
+    margin-right: 10px;
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.hii {
+    font-family: "Bree Serif";
+
+}
+
+.para {
+    font-family: "roboto";
+    color: #ffffff;
+}
+
+.button1 {
+    font-family: "roboto";
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+
+.colour {
+    background-color: #f6c56e;
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
